@@ -4,5 +4,5 @@ International French School Singapore
 
 <br>
 
-LP : Langage et programmation
-SD : Structures de données
+- LP : Langage et programmation
+- SD : Structures de données
