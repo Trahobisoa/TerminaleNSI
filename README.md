@@ -8,5 +8,5 @@ International French School Singapore
 - SD : Structures de Données
 - ALGO : Algorithmique
 - BDD : Base De Données
-- 
+- AMSER : Architectures Matérielles, Systèmes d'Exploitation et Réseaux
 - TP : Travaux Pratiques
