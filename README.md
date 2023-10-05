@@ -4,5 +4,9 @@ International French School Singapore
 
 <br>
 
-- LP : Langage et programmation
-- SD : Structures de données
+- LP : Langage et Programmation
+- SD : Structures de Données
+- ALGO : Algorithmique
+- BDD : Base De Données
+- 
+- TP : Travaux Pratiques
