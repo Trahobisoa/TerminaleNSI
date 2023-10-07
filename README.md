@@ -10,3 +10,5 @@ International French School Singapore
 - BDD : Base De Données
 - AMSER : Architectures Matérielles, Systèmes d'Exploitation et Réseaux
 - TP : Travaux Pratiques
+
+L'ensemble des documents disponibles est publié sous licence CC-BY-SA.
