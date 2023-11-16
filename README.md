@@ -12,3 +12,8 @@ International French School Singapore
 - TP : Travaux Pratiques
 
 L'ensemble des documents disponibles est publié sous licence CC-BY-SA.
+
+Bibliographie : 
+- Spécialité NSI Terminale (Editions Eyrolles)
+- Cours de Benjamin Abel (lyceum.fr)
+- Cours de Gilles Lassus 
