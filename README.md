@@ -15,5 +15,5 @@ L'ensemble des documents disponibles est publié sous licence CC-BY-SA.
 
 Bibliographie : 
 - Spécialité NSI Terminale (Editions Eyrolles)
-- Cours de Benjamin Abel (lyceum.fr)
-- Cours de Gilles Lassus 
+- Site lyceum.fr
+- https://glassus.github.io/terminale_nsi/
