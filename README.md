@@ -16,4 +16,3 @@ L'ensemble des documents disponibles est publié sous licence CC-BY-SA.
 Bibliographie : 
 - Spécialité NSI Terminale (Editions Eyrolles)
 - Site lyceum.fr
-- https://glassus.github.io/terminale_nsi/
