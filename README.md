@@ -17,3 +17,4 @@ Bibliographie :
 - Spécialité NSI Terminale (Editions Eyrolles)
 - Site lyceum.fr
 - Github : glassus.github.io
+- Pixees : David Roche
