@@ -1,6 +1,5 @@
 # Terminale NSI
-Cours de Terminale - Spécialité Numérique et Sciences Informatiques -
-IFS Singapore
+## Cours de Terminale - Spécialité Numérique et Sciences Informatiques - IFS Singapore
 
 <br>
 
@@ -11,9 +10,9 @@ IFS Singapore
 - AMSER : Architectures Matérielles, Systèmes d'Exploitation et Réseaux
 - TP : Travaux Pratiques
 
-L'ensemble des documents disponibles est publié sous licence CC-BY-SA.
+L'ensemble des documents disponibles est publié sous licence _CC-BY-SA_.
 
-Bibliographie : 
+**Bibliographie :** 
 - Spécialité NSI Terminale (Editions Eyrolles)
 - Site lyceum.fr
 - Github : glassus.github.io
